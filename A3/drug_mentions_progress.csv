@@ -1,0 +1,1214 @@
+Drug,Mentions
+*   dihydrotachysterol,2
+*   rifampicin,1
+*   naproxen,3
+*   oxaprozin,2
+*   clozapine,7
+*   olanzapine,4
+*   5-fluorouracil,2
+*   azithromycin,1
+*   5-FU,2
+BH-AC,2
+cytosine arabinoside,1
+idarubicin,1
+riluzole,2
+5-aminosalicylic acid,5
+lidocaine,3
+bupivacaine,3
+aspirin,7
+methotrexate,18
+MTX,21
+Epoprostenol,4
+Prednisone,9
+Hydroxyurea,9
+Calcipotriol,3
+Pravastatin,3
+Aspirin,10
+Omeprazole,6
+Salazosulfapyridine,5
+Olanzapine,25
+Diclofenac,2
+2-CdA,4
+Heparin,26
+Clozapine,21
+clozapine,16
+all-trans-retinoic acid,1
+paroxetine,3
+insulin,19
+protamine,4
+NPH insulin,2
+*   Insulin,8
+*   Brimonidine,6
+*   Ceftriaxone,3
+*   Methotrexate,2
+*   NPH,1
+Methotrexate,64
+Arsenic trioxide,1
+Minocycline,12
+5-FU,11
+Venlafaxine,6
+cyclophosphamide,18
+cytoxan,1
+cyclosposphamide,1
+phenytoin,11
+losartan,4
+Losartan,2
+Danazol,6
+Danaparoid,2
+Doxetaxel,1
+Sodium phosphate,2
+Sodium biphosphate,1
+Amiodarone,36
+Diphenylhydantoin,5
+D-penicillamine,14
+D-Pen,3
+Corticosteroid,9
+Methimazole,9
+Alendronate sodium,3
+Alendronate,3
+gemcitabine,9
+infliximab,17
+codeine,2
+HU,6
+sodium phenylbutyrate,1
+SPB,2
+Sodium phenylbutyrate,1
+caffeine,4
+*   citalopram,5
+*   desmethylclomipramine,1
+*   indinavir,1
+*   risperidone,4
+*   valproate,3
+*   pyridostigmine,1
+*   azathioprine,2
+*   theophylline,1
+Theophylline,12
+Methylene blue,1
+Ifosfamide,7
+Gliclazide,2
+gliclazide,3
+TCA,3
+nitrofurantoin,7
+corticosteroid,2
+levodopa,2
+interferon-alpha,4
+uracil-tegafur,3
+UFT,3
+Ibuprofen,10
+Naloxone,4
+Flecainide,5
+L-asparaginase,19
+Nitroglycerin,3
+Troglitazone,7
+Nitrofurantoin,4
+Fluoxetine,14
+Zolmitriptan,3
+Carboplatin,15
+Nimesulide,4
+Etoposide,10
+Cyanamide,8
+tacrolimus,4
+morphine,5
+naloxone,2
+vasopressin,1
+risperidone,4
+rifampicin,8
+ethambutol,9
+methylprednisolone,9
+mitomycin C,4
+carboplatin,3
+valproate,9
+sodium valproate,1
+lamotrigine,4
+CyA,2
+Cyclosporine,13
+Colchicine,13
+Paclitaxel,10
+Phenylbutazone,1
+atenolol,1
+gemfibrozil,2
+stavudine,2
+lamivudine,2
+propafenone,7
+pilsicainide,1
+Pilsicainide,1
+Risperidone,13
+Tiagabine,5
+Lithium,36
+Carbamazepine,38
+Ritonavir,3
+Saquinavir,1
+Calcitonin,2
+Miacalcic,1
+Salmon calcitonin,1
+Calsynar,1
+Imipenem/cilastatin,5
+Gabapentin,5
+Vigabatrin,4
+vigabatrin,4
+interferon,11
+interferon alpha,9
+IFN-alpha,15
+ribavirin,12
+vancomycin,7
+phosphorus,2
+*   hydroquinone,2
+*   tretinoin,1
+*   bleomycin,3
+*   methotrexate,19
+*   warfarin,5
+*   cholestyramine,1
+*   PCCs,1
+*   Recombinant VIIa,1
+*   prothrombin complex concentrate,1
+*   recombinant factor VIIa,1
+Quinine,10
+Fludarabine,10
+Lithium carbonate,1
+Paroxetine,1
+Sertraline,6
+venlafaxine,3
+heparin,9
+warfarin,1
+nevirapine,4
+acarbose,1
+etanercept,6
+ARA-C,3
+Cytosine arabinoside,9
+Quetiapine,10
+Clomipramine,5
+5-fluorouracil,19
+Acetazolamide,7
+Meloxicam,4
+Spironolactone,5
+Oxaliplatin,2
+Clofazimine,6
+Enoxaparin,11
+Cibenzoline,1
+Fluvoxamine,7
+fluvoxamine,8
+meglumine antimoniate,2
+allopurinol,2
+ketoconazole,2
+omeprazole,3
+pantoprazole,3
+lansoprazole,3
+Levodopa,8
+Leflunomide,12
+Valacyclovir,3
+Cyproterone acetate,3
+*   cyproterone acetate,1
+*   levofloxacin,2
+*   ticlopidine,4
+*   methadone,2
+*   succinylcholine,1
+Succinylcholine,2
+Ethanol,4
+Adenosine,3
+Methylprednisolone,10
+Procaterol,1
+CBZ,2
+methimazole,2
+MMI,1
+didanosine,1
+dexamethasone,2
+cisplatin,14
+metformin,6
+tobramycin,5
+gentamycin,1
+amprenavir,2
+APV,1
+Amprenavir,1
+Gemcitabine,35
+Vancomycin,13
+Taxol,2
+Morphine,5
+Sodium aurothiomalate,2
+Oxaliplatinum,3
+Accutane,5
+Pranlukast,1
+ONO-1078,1
+pranlukast,1
+indinavir,8
+rofecoxib,4
+LTG,1
+valproic acid,3
+olanzapine,13
+salsalate,4
+Amphotericin B,19
+Phenytoin,17
+Lorazepam,3
+Didanosine,1
+Bupivacaine,2
+Dipivefrin,5
+Sulphasalazine,3
+Cisplatin,22
+vindesine,1
+scopolamine,3
+lorazepam,2
+vincristine,9
+amodiaquine,2
+artesunate,2
+8-methoxypsoralen,1
+8-MOP,2
+benztropine,1
+quetiapine,5
+ofloxacin,2
+Ofloxacin,4
+G-CSF,5
+Liothyronine,1
+Triiodothyronine,1
+Mefloquine,7
+Halofantrine,1
+Methanol,2
+Fomepizole,1
+Octreotide,4
+octreotide,4
+tamoxifen,5
+INH,11
+carbamazepine,11
+isonicotinic acid hydrazide,1
+metoclopramide,9
+sertraline,3
+haloperidol,3
+captopril,11
+Captopril,12
+Warfarin,18
+Interferon alpha,16
+Tamoxifen,19
+Itraconazole,12
+Ketoconazole,1
+itraconazole,11
+porcine factor VIII,1
+pFVIII,3
+interferon alfa,3
+mirtazapine,7
+Mirtazapine,1
+Procarbazine,1
+Interferon,13
+IFN-beta,4
+Ciprofloxacin,27
+Lansoprazole,10
+amifostine,3
+Zuclopenthixol,7
+Metamizole,2
+Erythropoietin,1
+Mitomycin,1
+Mitomycin C,3
+Levofloxacin,8
+Vinblastine,6
+Bleomycin,17
+IL-2,5
+Gelofusine,2
+Valproate,8
+Cyclophosphamide,15
+Amisulpride,1
+Ticlopidine,8
+Rosiglitazone,3
+Pioglitazone,1
+Verapamil,12
+Corticosteroids,7
+Lidocaine,4
+2-deoxycoformycin,1
+2-chlorodeoxyadenosine,1
+Vasopressin,6
+Mitomycin-C,2
+Cladribine,3
+Neothetazone,1
+Bucillamine,3
+Valproic acid,8
+Cyclosporin,7
+Cyclosporin A,1
+Etanercept,9
+Rofecoxib,2
+Thyroid hormone,2
+*   amiodarone,5
+*   amiodarone HCl,1
+*   digoxin,1
+*   benzalkonium,1
+*   rifabutin,4
+*   nefazodone,1
+*   benzodiazepine,1
+Mizoribin,4
+Bredinin,1
+Interferon-alpha,10
+Interferon beta-1a,3
+Methazolamide,5
+Capecitabine,17
+Diphenhydramine,5
+Fluorouracil,5
+Insulin,6
+Cytarabine,13
+Metronidazole,4
+Isradipine,3
+Clarithromycin,6
+clarithromycin,3
+brimonidine,4
+gabapentin,2
+zonisamide,2
+Doxycycline,5
+Melphalan,2
+sirolimus,4
+Rapamycin,2
+lithium,8
+6-MP,1
+AZA,6
+6-thioguanine,1
+6-TG,3
+lisinopril,1
+prednisolone,4
+propylthiouracil,4
+propranolol,3
+Propylthiouracil (PTU),2
+Carbimazole (CBZ),2
+Interferon-alpha (IFN-alpha),2
+Chloroquine,6
+Carbimazole,3
+Sulfacetamide sodium,1
+Sulfonamide,3
+Sulfonamides,1
+Amiloride,2
+Thiazide,1
+FK506,11
+Tacrolimus,7
+doxycycline,2
+isoniazid,2
+Isoniazid,16
+Magnesium sulfate,1
+5-ASA,3
+SASP,2
+Infliximab,18
+IFNalpha,7
+Rituximab,13
+Sodium bicarbonate,2
+dapsone,1
+rifampin,1
+thalidomide,6
+interferon alpha-2a,1
+interferon alpha-2b,1
+Dapsone,12
+Lepirudin,1
+Levetiracetam,3
+Clonazepam,2
+Cefuroxime,2
+Argatroban,5
+IFN,13
+Ribavirin,8
+Tazobactam/piperacillin,3
+Chymopapain,2
+Tegretol,1
+Fragmin,1
+Fraxiparin,1
+Enoxaparine,1
+Clexane,1
+Org 10172,1
+Labetalol,1
+Bromocriptine,4
+Cabergoline,3
+Vecuronium,3
+Sulfasalazine,10
+Isotretinoin,8
+Adrenaline,4
+13-cis-retinoic acid,1
+*   desmopressin,2
+*   Tegretol,1
+*   norethisterone,6
+*   insulin,1
+*   IFN,1
+*   alpha-interferon,1
+Ganciclovir,3
+Roxithromycin,2
+Betamethasone,2
+L-dopa,6
+glyburide,2
+dextrose,1
+glucagon,1
+diazoxide,1
+pseudoephedrine,1
+brompheniramine,1
+dextromethorphan,1
+acenocoumarol,4
+colchicine,10
+Budesonide,2
+Dexamethasone,9
+Mitoxantrone,1
+yohimbine,2
+tacalcitol,2
+vitamin D3,3
+thiazide,3
+2-Chloro-deoxyadenosine,1
+DGTX,2
+Topiramate,6
+Amifostine,4
+Pantoprazole,4
+Finasteride,2
+Propecia,2
+Methylphenidate,13
+Ramipril,3
+Lisinopril,2
+Doxorubicin,16
+Kayexalate,3
+quinacrine,3
+chloroquine,1
+hydroxychloroquine,2
+phenylpropanolamine,4
+Furazolidone,1
+Nifuroxime,1
+Phenobarbital,13
+Chlorpromazine,2
+Pilocarpine,2
+Belladonna,1
+Ergotamine,3
+Bellamine S,2
+belladonna alkaloids,1
+ergotamine,1
+phenobarbital,1
+latanoprost,2
+bimatoprost,2
+*   latanoprost,1
+*   bimatoprost,1
+*   oxaliplatin,2
+*   ampicillin,1
+*   heparin,6
+Dimethyl sulfoxide,2
+DMSO,1
+Pegylated interferon alpha,1
+IFN alpha,1
+naltrexone,2
+NTX,1
+Sargramostim,2
+Filgrastim,1
+Prostaglandin analog,1
+Prostaglandin Analog,2
+BCNU,10
+Dorzolamide,3
+Bimatoprost,2
+Sulfadoxine-pyrimethamine,1
+Indapamide,1
+*   indapamide,8
+*   fosinopril,1
+*   imatinib mesylate,1
+*   imatinib,5
+Imatinib mesylate,3
+Nimodipine,4
+Calcium gluconate,1
+Glyburide,2
+Aminophylline,3
+Disulfiram,10
+Linezolid,9
+Prostaglandin E1,4
+Interleukin-2,1
+Foscarnet,1
+Cidofovir,1
+CAP,4
+*   Capecitabine,3
+*   Rosiglitazone,2
+*   Nevirapine,2
+*   Quetiapine,5
+*   sertraline,3
+*   fluoxetine,1
+*   etanercept,2
+*   flupirtine,2
+*   pegylated interferon alpha-2a,2
+*   ribavirin,4
+*   epinephrine,1
+*   metaraminol,1
+glatiramer acetate,3
+Copaxone,2
+verapamil,1
+busulfan,4
+PTU,7
+amiodarone,10
+*   propylthiouracil,1
+*   PTU,1
+*   MTX,7
+*   rofecoxib,1
+*   imiquimod,5
+azathioprine,3
+ziprasidone,3
+all-trans retinoic acid,1
+ATRA,5
+Oxybutynin,5
+Dantrolene,3
+enalapril,1
+Gliadel wafers,3
+Carmustine,1
+Cis-retinoic acid,1
+RA,3
+Retinoic acid,1
+Imiquimod,3
+Temozolomide,7
+Interferon alpha 2b,2
+Propylthiouracil,8
+Azathioprine,8
+Ethambutol,12
+Flucloxacillin,3
+Zoledronic acid,2
+*   Cyclophosphamide,1
+*   Tacrolimus,3
+*   Risperidone,3
+*   BTX-B,2
+BTX-B,1
+Botulinum toxin type B,1
+Enalapril,2
+Cerivastatin,4
+CBDCA,4
+paclitaxel,1
+cyclosporine,4
+fentanyl,3
+fluphenazine,2
+bicalutamide,3
+leuprorelin acetate,2
+rifabutin,4
+raloxifene,4
+MMF,8
+Mycophenolate mofetil,3
+anti-D IGIV,4
+*   infliximab,4
+*   linezolid,2
+*   tamoxifen,4
+*   pentamidine,4
+Bupropion,5
+VGB,3
+interferon-alfa,4
+alfa-interferon,1
+pegylated interferon alfa-2b,3
+tegaserod,2
+Tegaserod,2
+Interferon beta-1b,2
+Vincristine,12
+Pseudoephedrine,3
+Phenylpropanolamine,2
+All-trans retinoic acid,4
+imiquimod,1
+fluoxetine,4
+iron sucrose,2
+clioquinol,3
+sodium hyaluronate,2
+corticosteroids,2
+hyaluronate,1
+Lamivudine,6
+Pergolide,1
+Busulfan,1
+MM,3
+Baclofen,5
+Propofol,2
+Irbesartan,1
+Noradrenaline,1
+irbesartan,1
+desferrioxamine,2
+triamcinolone,2
+ritodrine hydrochloride,3
+epinephrine,2
+Epinephrine,4
+Chloramphenicol,5
+Dofetilide,3
+Phenylephrine,2
+Sirolimus,4
+*   interferon beta 1a,2
+*   interferons,1
+*   venlafaxine,3
+*   alpha interferon,1
+Recombinant alpha interferon,3
+Vardenafil,2
+Interferon alpha-2b,1
+Senna,2
+senna,1
+prednisone,4
+penicillin,4
+penicillin G,1
+rituximab,12
+gemtuzumab ozogamicin,1
+OKT3,1
+bisphosphonate,3
+Calcium hydroxylapatite,3
+Furosemide,2
+Trimethoprim/sulfamethoxazole,3
+Torsemide,1
+*   cyclosporine,2
+*   lopinavir/ritonavir,2
+*   valproic acid,3
+*   VPA,1
+*   triamcinolone acetonide,1
+*   corticosteroids,3
+*   interferon-beta,1
+*   IFN-beta,8
+Trimethoprim-sulfamethoxazole,6
+trimethoprim/sulfamethoxazole,1
+TMP/SMX,3
+Amantadine,2
+Triazolam,2
+Interferon gamma,1
+*   interferon alpha,1
+*   nedaplatin,1
+*   irinotecan,1
+*   cinacalcet HCl,1
+*   sirolimus,4
+*   ifosfamide,6
+ifosfamide,2
+BCG,4
+HCQ,5
+sumatriptan,3
+trimethoprim,2
+TMP,2
+sulfamethoxazole,1
+SMX,2
+Triamcinolone acetate,1
+Triamcinolone,2
+Triamcinolone acetonide,4
+Dipyrone,3
+Efalizumab,2
+Pyrimethamine,1
+Sulfadiazine,5
+*   paclitaxel,1
+*   phenol,3
+*   Interferon-beta,3
+IFN beta,1
+cloxacillin,4
+amoxicillin,1
+cefuroxime,1
+carmustine,1
+zafirlukast,2
+pegfilgrastim,1
+statin,3
+*   docetaxel,4
+*   gemcitabine,2
+ivermectin,3
+Simvastatin,3
+Pegvisomant,3
+pegvisomant,2
+temozolomide,2
+mannitol,1
+triptan,1
+sulphasalazine,3
+Erlotinib,8
+Benzoyl peroxide,2
+Caffeine,1
+Diamorphine,4
+Aprotinin,1
+Divalproex sodium,1
+Lamotrigine,4
+*   lisinopril,1
+*   losartan,1
+*   rituximab,5
+*   thrombin,4
+oxaliplatin,3
+leucovorin,1
+Zyprexa,1
+phenothiazines,1
+citalopram,4
+IFN-beta-1b,3
+interferon-beta-1b,1
+homochlorcyclizine hydrochloride,1
+calcium stearate,3
+zoledronic acid,2
+Prednisolone,2
+Indomethacin,6
+Moxifloxacin,3
+Fluoroquinolone,1
+Amphotericin B deoxycholate,1
+Benfluorex,2
+Nevirapine,2
+CPA,1
+CS,3
+Ritalin,4
+Avastin,2
+Bevacizumab,2
+Metoclopramide,6
+Quinapril,1
+Adriamycin,8
+Actinomycin-D,2
+Mithramycin,2
+Mesalazine,1
+mesalazine,1
+erlotinib,8
+gefitinib,4
+tadalafil,1
+docetaxel,3
+trimethoprim-sulfamethoxazole,3
+bevacizumab,10
+Perospirone hydrochloride,2
+Imatinib,9
+methadone,2
+milnacipran,3
+pemetrexed,1
+*   fentanyl,5
+Teicoplanin,4
+Pentamidine,2
+Peginterferon alfa-2a,1
+Interferon alpha 2-beta,1
+Ezetimibe,2
+Raloxifene,2
+Lenalidomide,1
+*   lenalidomide,2
+*   thalidomide,4
+*   triamcinolone,3
+*   ethambutol,2
+*   interferon-alpha,3
+*   sulfamethoxazole/trimethoprim,1
+Sodium valproic acid,1
+VPA,1
+Diltiazem,7
+Propafenone,5
+Bortezomib,4
+Phenelzine,2
+dantrolene,1
+PGE1,2
+5-Fluorouracil,1
+Interferon-gamma,1
+rIFN-gamma,3
+Bisphosphonate,1
+Metformin,3
+Oxcarbazepine,8
+L-tryptophan,2
+Rifampin,9
+nabumetone,2
+simvastatin,4
+clopidogrel,1
+fluoroquinolone,1
+moxifloxacin,1
+terlipressin,1
+Desferrioxamine,4
+Dobutamine,3
+Calcium polystyrene sulfonate,2
+Sorbitol,2
+Efavirenz,3
+*   adenosine,2
+*   metronidazole,2
+Thalidomide,1
+Glatiramer acetate,3
+Acetylsalicylic acid,2
+Indinavir,1
+Nelfinavir,1
+Clopidogrel,1
+Acyclovir,1
+Tobramycin,2
+Trastuzumab,3
+Aripiprazole,3
+pegylated interferon alpha-2a,2
+clomiphene citrate,2
+atomoxetine,2
+recombinant alpha-2b peginterferon,2
+peginterferon alpha-2b,1
+ranibizumab,4
+methylphenidate,2
+dextroamphetamine,2
+efalizumab,2
+pegaptanib,1
+Pegaptanib,1
+Enalaprilat,2
+Sibutramine,3
+Pregabalin,3
+Muzolimine,2
+Anastrozole,6
+anastrozole,1
+baclofen,3
+Increlex,1
+Ropinirole,1
+Piperacillin,1
+Cefotiam,1
+Sparfloxacin,1
+Grepafloxacin,1
+Trovafloxacin,1
+Gatifloxacin,1
+*   Copaxone,3
+*   ketoconazole,1
+*   terlipressin,2
+*   bevacizumab,2
+*   VRC,1
+*   voriconazole,1
+Voriconazole,1
+Cephalosporin,3
+Cefoxitin,6
+Cefazolin,3
+Citalopram,1
+piperacillin/tazobactam,1
+hydroxyurea,6
+*   hydroxyurea,2
+*   ciprofloxacin,3
+*   tacrolimus,3
+*   aspirin,1
+*   clopidogrel,1
+*   temozolomide,2
+*   ceftriaxone,2
+Ceftriaxone,1
+econazole,2
+Hydrocortisone,1
+Disodium cromoglycate,2
+Propranolol,20
+Partusisten,1
+*   corticosteroid,1
+*   mianserin,1
+*   aripiprazole,1
+*   posaconazole,1
+*   vancomycin,1
+*   ritonavir,2
+*   lopinavir,1
+*   flunitrazepam,1
+flunitrazepam,1
+leflunomide,2
+lenalidomide,3
+amantadine,7
+sunitinib,7
+imatinib,1
+Darifenacin,2
+Chlorambucil,10
+Leucovorin,1
+Tenofovir,1
+TDF,1
+*   Tenofovir,1
+*   Piroxicam,1
+*   Intravenous immunoglobulin,2
+*   IVIG,3
+*   Temsirolimus,2
+*   Etanercept,4
+*   dexmedetomidine,1
+*   glycopyrrolate,1
+*   bisphosphonates,2
+*   quinine,7
+*   epirubicin,2
+Aliskiren,1
+*   stavudine,2
+*   zidovudine,3
+*   bacitracin,2
+*   octreotide,2
+*   AZA,1
+Alemtuzumab,2
+Tranexamic acid,1
+divalproex sodium,2
+Depakote,2
+flurbiprofen,1
+Flurbiprofen,1
+Sorafenib,8
+Tigecycline,6
+Tetracycline,1
+Leuprolide acetate,2
+Lupron,1
+ketamine,3
+lopinavir/ritonavir,2
+*   carbamazepine,2
+*   Adriamycin,2
+*   cis-platinum,2
+*   adalimumab,3
+*   TMP-Sx,3
+*   trimethoprim-sulfamethoxazole,1
+dalteparin,1
+avastin,1
+etoposide,4
+doxorubicin,3
+Adefovir,1
+*   oxymetazoline,2
+*   nitrofurantoin,3
+*   methylprednisolon,1
+*   natalizumab,2
+*   sunitinib,1
+*   lamotrigine,3
+Dasatinib,2
+Adalimumab,4
+Amikacin,3
+Thrombin,2
+licorice,2
+disopyramide,3
+silodosin,1
+garenoxacin,3
+8MOP,1
+calcium polystryrene sulfonate,1
+sodium polystryrene sulfonate,1
+Kalimate,2
+Pegylated interferon,3
+Ritodrine,6
+Anthracycline,1
+Daunomycin,1
+Zidovudine,3
+Hydroxychloroquine,5
+Trazodone,4
+methylephedrine,1
+lacosamide,1
+Zonisamide,4
+Bisabolol,1
+Immunoglobulin,3
+IVIG,2
+Hexoprenaline,2
+Gefitinib,1
+Prochlorperazine,4
+TMP-SMX,6
+MP,4
+Calcium hopantenate,5
+etoglucid,1
+tPA,2
+tissue plasminogen activator,2
+cyproterone acetate,3
+iothalamate,1
+griseofulvin,1
+aminoglutethimide,4
+disulfiram,6
+Folinic acid,2
+Alum,1
+Nitrendipine,2
+Sucralfate,1
+Penicillin G,1
+Gentamicin,4
+Chromic phosphate,2
+Ara-C,4
+Pyridostigmine bromide,3
+Diazepam,1
+Glipizide,2
+Atenolol,1
+Sulpiride,2
+*   sulpiride,2
+*   acyclovir,3
+acyclovir,3
+quinine,4
+cis-platinum,1
+vinblastine,3
+bleomycin,9
+Procainamide,9
+Diethylstilbestrol,3
+dextran-40,5
+Penicillamine,10
+Asparaginase,3
+Busulphan,2
+Morphine-6-glucuronide,1
+Haloperidol,3
+Thionamide,1
+Radioactive iodine,1
+Mianserin,2
+Etizolam,1
+Flunitrazepam,1
+Trihexyphenidyl,2
+"o,p'-DDD",1
+Alprazolam,2
+*   Alprazolam,3
+*   Lithium,3
+*   Diazepam,1
+*   Sulfasalazine,3
+*   Amantadine,3
+*   Chlorpromazine,1
+L-thyroxine,3
+L-T4,3
+Ampicillin,12
+FUdR,1
+nifedipine,3
+Decadron,3
+chloral hydrate,1
+Co-trimoxazole,2
+Depo-Medrol,2
+Adrenocorticotropic hormone,1
+ACTH,2
+Sodium valproate,2
+Lynestrenol,2
+Allopurinol,4
+Prostaglandin-E2,1
+Niacin,5
+Rifampicin,6
+Nafcillin,2
+Streptokinase,4
+Human growth hormone,2
+Choline magnesium trisalicylate,2
+Salicylate,3
+Nadolol,1
+Dyazide,1
+Timolol,1
+Desipramine,5
+Benzocaine,3
+Cyclosporine A,7
+Pantothenic acid,1
+Morphine sulfate,1
+Halothane,2
+Methionine,1
+Povidone-iodine,1
+Gold,10
+Gold salts,2
+6-mercaptopurine,1
+HDARAC,4
+Razoxane,1
+Sodium nitroprusside,1
+Neutral protamine hagedorn,1
+Protamine zinc iletin,1
+Steroid,1
+Minoxidil,1
+Amoxapine,3
+chloramphenicol sodium succinate,1
+penicillamine,3
+Terbutaline,1
+Nifedipine,3
+Prazosin,3
+Digoxin,8
+Nicotinic acid,4
+5-fluorocytosine,1
+timolol,4
+mono-octanoin,2
+monooctanoin,1
+theophylline,5
+viloxazine,2
+Amsacrine,3
+Tolazoline,2
+Macrodantin,1
+Trazodone hydrochloride,1
+Quinidine,4
+Phentolamine,2
+Papaverine,2
+Interferon beta,2
+*   Mebendazole,1
+*   Trimethoprim-sulfamethoxazole,2
+*   Vasopressin,2
+*   Protamine,3
+*   Cis-platinum,1
+Steroids,1
+Glucagon,4
+Hydrochlorothiazide,1
+*   Amiodarone,2
+*   Heparin,7
+*   Pyridoxine,1
+Pyridoxine,2
+Oxacillin,2
+Fenclofenac,2
+fenclofenac,1
+aurothiomalate,1
+trazodone,4
+benzodiazepine,2
+imipramine,1
+Intralipid,1
+Adenine arabinoside,2
+Methysergide maleate,2
+Lithium Carbonate,2
+Psoralens,1
+*   clindamycin,1
+*   Bromocryptine,1
+*   formalin,2
+*   sodium bicarbonate,1
+*   amoxapine,1
+*   ibuprofen,3
+*   phenylbutazone,1
+*   indomethacin,1
+*   Allopurinol,1
+Ouabain,3
+Sulindac,3
+Serine,1
+Phenothiazines,1
+Thioridazine,1
+Dextrose,2
+Cisplatinum,2
+Pentobarbital,1
+Pyrilamine maleate,1
+*   clofazimine,2
+*   nortriptyline,2
+*   ACTH,2
+*   cefmenoxime,2
+*   lithium,2
+*   marijuana,2
+silver sulfadiazine,1
+cholestyramine,6
+metoprolol,1
+lithium carbonate,1
+diazepam,1
+Phenobarbitone,1
+Gold sodium thiomalate,3
+Auranofin,1
+Tolmetin,2
+Clioquinol,1
+ampicillin,1
+lorcainide,5
+hydrochlorothiazide,2
+chlorpropamide,2
+Chlorpropamide,1
+CCNU,4
+melphalan,2
+spironolactone,1
+DCF,2
+Fluoresone,3
+amoxapine,2
+etretinate,2
+deanol,1
+cephalosporins,1
+moxalactam,2
+Moxalactam,1
+Fenoprofen,2
+*   fenoprofen,1
+*   quinacrine hydrochloride,1
+*   trazodone,2
+*   cysteamine,1
+*   paracetamol,1
+*   zomepirac sodium,1
+*   zomepirac,2
+*   cimetidine,2
+cinepazide,2
+Amphojel,1
+gold-salt,1
+gold,8
+glibenclamide,3
+ergonovine,1
+cyclofenil,2
+cimetidine,1
+desipramine,1
+Thiabendazole,3
+Vincristine sulfate,1
+Disopyramide,5
+Cefoxitin sodium,1
+SQ 14225,1
+Isoproterenol,1
+Dopamine,1
+Cimetidine,3
+Flucytosine,3
+Perhexiline maleate,1
+DCA,1
+arginine monohydrochloride,1
+disopyramide phosphate,1
+Bretylium,4
+timolol maleate,1
+digoxin,2
+perhexiline maleate,4
+Treosulfan,4
+Quinine sulfate,1
+Practolol,1
+Niflumic acid,4
+niflumic acid,1
+Para-aminosalicylic acid,1
+PAS,3
+Emepronium bromide,2
+Miconazole,1
+miconazole,1
+clofibrate,4
+hycanthone,2
+chlorambucil,2
+barbiturate,1
+Barbiturates,1
+Atovaquone,2
+DILANTIN,1
+atovaquone,2
+flecainide,2
+Chlormadinone acetate,1
+Sulphonomide,1
+Griseofulvin,3
+Ketoralac,1
+ketorolac,2
+*   etoposide,1
+*   interferon alfa,6
+*   amitriptyline,1
+*   lithium carbonate,1
+*   levothyroxine,1
+adenosine,2
+mianserin,2
+biperiden,1
+amphotericin B,3
+sodium stibogluconate,1
+*   phenylephrine,1
+*   progestin,3
+*   furosemide,2
+*   KW-2149,1
+*   cyclophosphamide,1
+*   benzarone,2
+Benzarone,3
+Sodium Warfarin,2
+Sumatriptan,3
+Sotalol,2
+Dipyridamole,2
+Atropine,1
+Levamisole,2
+levamisole,2
+ethanolamine oleate,1
+gentamicin sulfate,1
+gentamicin,2
+bromocil,1
+diuron,1
+aminotriazole,1

@@ -1,0 +1,11 @@
+gemtest.py
+project/.venv/
+project/Audiowav/
+project/label_encoder-2.pkl
+project/cnn_emotion_model-2.h5
+A3/.env
+A2/lstm_mental_health.h5
+A2/label_encoder.pkl
+A2/tokenizer.pkl
+RAG/.env
+RAG/dataset/
