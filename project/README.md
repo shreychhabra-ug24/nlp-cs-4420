@@ -14,7 +14,8 @@ In the project directory, run the following commands in the terminal (you might 
 
 # Run the Model
 
-Download the training dataset from  - 
-Unzip and move the dataset to the main project directory
-Open audio-cnn-with-multimodal-fusion.ipynb and run all cells
+Download the training dataset from  - https://drive.google.com/drive/folders/19aYongg7tPwkZRNnuZQfbRfqWnJzUxAQ?usp=sharing
+
+Unzip and move the dataset to the main project directory.
+Open audio-cnn-with-multimodal-fusion.ipynb and run all cells.
 It should take about 5 minutes to train and generate the model weights, you can record audio in the last cell and use your own inputs. 
